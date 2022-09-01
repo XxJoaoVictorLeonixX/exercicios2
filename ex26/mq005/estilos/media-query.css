@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@media  screen and (min-width:768px) {
+    #burguer{
+        display: none;
+    }
+    #itens{
+        display: block;
+    }
+    menu > ul > li{
+        display: inline-block;
+        
+    }
+    menu a{
+        background-image: linear-gradient(to right,#35FD86,#30E345);
+        border-radius: 10px;
+    }
+    menu a:hover{
+        border-radius: 10px;
+        
+        
+    }
+    main{
+        margin-top: 18px;
+        width: 768px;
+    }
+    
+}
