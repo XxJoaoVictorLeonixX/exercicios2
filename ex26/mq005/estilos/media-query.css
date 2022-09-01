@@ -7,7 +7,7 @@
     #itens{
         display: block;
     }
-    menu > ul > li{
+    ul > li{
         display: inline-block;
         
     }
